@@ -27,5 +27,6 @@
 ## Créditos
 
 Todas as imagens usadas na aplicação são pertencentes a freepik.com
+
 App desenvolvido durante o curso "Construindo Aplicações Web Com o Novo Angular (4, 5 e 6)" da Cod3r Cursos através da plataforma Udemy.
 
